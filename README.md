@@ -67,7 +67,7 @@ CIRCUIT DIAGRAM
 PROGRAM :
 ```
 
- int ledpin = 4;
+int ledpin = 4;
 int pushbtn = 2;
 int val = 0;
 void setup()
